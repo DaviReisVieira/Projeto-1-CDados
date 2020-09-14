@@ -19,4 +19,4 @@ compara a performance dos resultados com uma base de testes.
 Após validado, o seu protótipo poderá também capturar e classificar automaticamente as
 mensagens da plataforma.
 
-<img src="bayes.png" style="width:50%" align="center" />
+<img src="capa.jpg" style="width:50%" align="center" />
