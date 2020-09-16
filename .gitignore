@@ -1,2 +1,5 @@
+#Auth Pass
 /auth.pass
+
+#Jupyter Notebook
 .ipynb_checkpoints
