@@ -4,7 +4,7 @@
 
 PT-BR:
 
-Fomos contratados por uma empresa parar analisar como os clientes estão reagindo a um
+Fomos contratados por uma empresa para analisar como os clientes estão reagindo a um
 determinado produto no Twitter. A empresa deseja que criemos um programa que selecione
 algumas mensagens disponíveis no Twitter que mencionam esse produto e classifique-as como
 "relevante" ou "irrelevante".
